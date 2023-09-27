@@ -1,0 +1,30 @@
+Info: Processing symbol 'A1:RP2040-Zero:RP2040-Zero'.
+Info: Processing symbol 'H1:MountingHole:MountingHole_6.4mm_M6'.
+Info: Processing symbol 'H2:MountingHole:MountingHole_6.4mm_M6'.
+Info: Processing symbol 'H3:MountingHole:MountingHole_6.4mm_M6'.
+Info: Processing symbol 'H4:MountingHole:MountingHole_6.4mm_M6'.
+Info: Processing symbol 'H5:MountingHole:MountingHole_6.4mm_M6'.
+Info: Processing symbol 'H6:MountingHole:MountingHole_6.4mm_M6'.
+Info: Processing symbol 'H7:MountingHole:MountingHole_6.4mm_M6'.
+Info: Processing symbol 'SW1:Button_Switch_THT:SW_PUSH_6mm_H5mm'.
+Info: Processing symbol 'SW2:Button_Switch_THT:SW_PUSH_6mm_H5mm'.
+Info: Processing symbol 'SW3:Button_Switch_THT:SW_PUSH_6mm_H5mm'.
+Info: Processing symbol 'SW4:Button_Switch_THT:SW_PUSH_6mm_H5mm'.
+Info: Processing symbol 'SW5:Button_Switch_THT:SW_PUSH_6mm_H5mm'.
+Info: Processing symbol 'SW6:Button_Switch_THT:SW_PUSH_6mm_H5mm'.
+Info: Processing symbol 'SW7:Kailh:Kailh_socket_PG1350_optional'.
+Info: Processing symbol 'SW8:Kailh:Kailh_socket_PG1350_optional'.
+Info: Processing symbol 'SW9:Kailh:Kailh_socket_PG1350_optional'.
+Info: Processing symbol 'SW10:Kailh:Kailh_socket_PG1350_optional'.
+Info: Processing symbol 'SW11:Kailh:Kailh_socket_PG1350_optional'.
+Info: Processing symbol 'SW12:Kailh:Kailh_socket_PG1350_optional'.
+Info: Processing symbol 'SW13:Kailh:Kailh_socket_PG1350_optional'.
+Info: Processing symbol 'SW14:Kailh:Kailh_socket_PG1350_optional'.
+Info: Processing symbol 'SW15:Kailh:Kailh_socket_PG1350_optional'.
+Info: Processing symbol 'SW16:Kailh:Kailh_socket_PG1350_optional'.
+Info: Processing symbol 'SW17:Kailh:Kailh_socket_PG1350_optional'.
+Info: Processing symbol 'SW18:Kailh:Kailh_socket_PG1350_optional'.
+Info: Processing symbol 'SW19:Kailh:Kailh_socket_PG1350_optional'.
+
+
+Info: Total warnings: 0, errors: 0.
